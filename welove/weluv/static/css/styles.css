@@ -1,0 +1,15 @@
+* {
+    padding:0;
+    margin:0;
+}
+
+main {
+    overflow: hidden;
+    background-color: burlywood;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
